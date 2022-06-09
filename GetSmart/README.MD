@@ -1,4 +1,4 @@
-# Project Get Smart
+# About Project 'Get Smart'
 
 Lapits Technologies was contacted by Dr. J.R. Lange, Serial Founder & Education Problem Solver, to review and perform a security audit of the smart contract. He is expert in higher education and online learning design with a 15-year track record of success.
 
