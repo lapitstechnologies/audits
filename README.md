@@ -1,6 +1,6 @@
 # Audits
 
-The following repository contains the security audit reports for smart contracts conducted by our organizaion. The Smart Contracts have been tested over a given set of vulnerabilities and weaknesses
+The following repository contains the security Audit reports conducted by our organizaion for our clients. The Smart Contracts have been tested over a given set of vulnerabilities and weaknesses
 
 The Audits are conducted both manually, and through open-source tools
 ## Software Used
