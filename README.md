@@ -17,7 +17,7 @@ The Audits are conducted both manually, and through open-source tools
   <th>Description</th>
   </tr>
   <tr>
-    <td>![Critical](https://github.com/lapitstechnologies/audits/blob/main/Images/image13.png)</td>
+    <td><img src="https://github.com/lapitstechnologies/audits/blob/main/Images/image13.png"></td>
     <td>Critical</td>
     <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
   </tr>
