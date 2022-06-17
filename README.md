@@ -22,7 +22,7 @@ The Audits are conducted both manually, and through open-source tools
   <tr>
     <td></td>
     <td>Major</td>
-    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+    <td>Major vulnerabilities have a significant impact on smart contract execution, e.g., public access to crucial functions</td>
   </tr>
   <tr>
     <td></td>
