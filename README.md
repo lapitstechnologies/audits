@@ -14,6 +14,11 @@ The Audits are conducted both manually, and through open-source tools
   <th>Severity</th>
   <th>Description</th>
   </tr>
+  <tr>
+    <td></td>
+    <td>Critical</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
   
  </table>
 
