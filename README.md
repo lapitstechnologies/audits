@@ -8,7 +8,39 @@ The Audits are conducted both manually, and through open-source tools
   <li><a href="https://github.com/crytic/slither">Slither</a></li>
   <li><a href="https://github.com/ConsenSys/mythril">Mythril</a></li>
 </ul>
-  
+ <table>
+  <tr>
+  <th>Indicator</th>
+  <th>Severity</th>
+  <th>Description</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Critical</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Major</td>
+    <td>Major vulnerabilities have a significant impact on smart contract execution, e.g., public access to crucial functions</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Medium</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Minor</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Informational</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
+ </table>
 
-## Note
+
+### Note
 <b>Report styles are subject to change or update overtime</b>
