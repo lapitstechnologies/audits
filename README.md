@@ -41,5 +41,6 @@ The Audits are conducted both manually, and through open-source tools
   </tr>
  </table>
 
-## Note
+
+### Note
 <b>Report styles are subject to change or update overtime</b>
