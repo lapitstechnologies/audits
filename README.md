@@ -19,7 +19,26 @@ The Audits are conducted both manually, and through open-source tools
     <td>Critical</td>
     <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
   </tr>
-  
+  <tr>
+    <td></td>
+    <td>Major</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Medium</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Minor</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Informational</td>
+    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+  </tr>
  </table>
 
 ## Note
