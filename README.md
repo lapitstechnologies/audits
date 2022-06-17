@@ -8,7 +8,14 @@ The Audits are conducted both manually, and through open-source tools
   <li><a href="https://github.com/crytic/slither">Slither</a></li>
   <li><a href="https://github.com/ConsenSys/mythril">Mythril</a></li>
 </ul>
+ <table>
+  <tr>
+  <th>Indicator</th>
+  <th>Severity</th>
+  <th>Description</th>
+  </tr>
   
+ </table>
 
 ## Note
 <b>Report styles are subject to change or update overtime</b>
