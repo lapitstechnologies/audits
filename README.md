@@ -8,6 +8,8 @@ The Audits are conducted both manually, and through open-source tools
   <li><a href="https://github.com/crytic/slither">Slither</a></li>
   <li><a href="https://github.com/ConsenSys/mythril">Mythril</a></li>
 </ul>
+## Vulnerability Indicators
+To access the severity of the mentioned exploits, one can refer to this table
  <table>
   <tr>
   <th>Indicator</th>
@@ -27,17 +29,17 @@ The Audits are conducted both manually, and through open-source tools
   <tr>
     <td><img src="https://github.com/lapitstechnologies/audits/blob/main/Images/image9.png" alt="Medium"></td>
     <td>Medium</td>
-    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+    <td>Medium-level vulnerabilities are important to fix. However, they cannot lead to asset loss or data manipulations</td>
   </tr>
   <tr>
     <td><img src="https://github.com/lapitstechnologies/audits/blob/main/Images/image8.png" alt="Minor"></td>
     <td>Minor</td>
-    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+    <td>Minor vulnerabilities are related to outdated or unused code snippets that cannot have a significant impact on execution</td>
   </tr>
   <tr>
     <td><img src="https://github.com/lapitstechnologies/audits/blob/main/Images/image4.png" alt="Informational"></td>
     <td>Informational</td>
-    <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
+    <td>nformational vulnerabilities do not pose a risk to security. These are merely improvements over the existing code</td>
   </tr>
  </table>
 
