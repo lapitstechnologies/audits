@@ -15,27 +15,27 @@ The Audits are conducted both manually, and through open-source tools
   <th>Description</th>
   </tr>
   <tr>
-    <td></td>
+    <td>![Critical](./Images/image13.png)</td>
     <td>Critical</td>
     <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
   </tr>
   <tr>
-    <td></td>
+    <td>![Major](./Images/image3.png)</td>
     <td>Major</td>
     <td>Major vulnerabilities have a significant impact on smart contract execution, e.g., public access to crucial functions</td>
   </tr>
   <tr>
-    <td></td>
+    <td>![Medium](./Images/image9.png)</td>
     <td>Medium</td>
     <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
   </tr>
   <tr>
-    <td></td>
+    <td>![Minor](./Images/image8.png)</td>
     <td>Minor</td>
     <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
   </tr>
   <tr>
-    <td></td>
+    <td>![Informational](./Images/image4.png)</td>
     <td>Informational</td>
     <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
   </tr>
