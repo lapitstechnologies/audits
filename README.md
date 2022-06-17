@@ -15,7 +15,7 @@ The Audits are conducted both manually, and through open-source tools
   <th>Description</th>
   </tr>
   <tr>
-    <td></td>
+    <td><div style="width:100px; height:100px; border-radius:50%; color:#FF0000"></div></td>
     <td>Critical</td>
     <td>Critical vulnerabilities lead to major exploits, asset loss or data manipulations</td>
   </tr>
