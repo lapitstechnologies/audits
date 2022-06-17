@@ -3,13 +3,17 @@
 The following repository contains the security Audit reports conducted by our organizaion for our clients. The Smart Contracts have been tested over a given set of vulnerabilities and weaknesses
 
 The Audits are conducted both manually, and through open-source tools
+
 ## Software Used
+
 <ul>
   <li><a href="https://github.com/crytic/slither">Slither</a></li>
   <li><a href="https://github.com/ConsenSys/mythril">Mythril</a></li>
 </ul>
+
 ## Vulnerability Indicators
-To access the severity of the mentioned exploits, one can refer to this table
+
+To assess the severity of exploits, one can refer to this table
  <table>
   <tr>
   <th>Indicator</th>
