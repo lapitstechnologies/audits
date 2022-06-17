@@ -3,6 +3,8 @@
 The following repository contains the security Audit reports conducted by our organizaion for our clients. The Smart Contracts have been tested over a given set of vulnerabilities and weaknesses
 
 The Audits are conducted both manually, and through open-source tools
+![Critical](https://github.com/lapitstechnologies/audits/blob/main/Images/image13.png)
+![Critical](/Images/image13.png)
 ## Software Used
 <ul>
   <li><a href="https://github.com/crytic/slither">Slither</a></li>
