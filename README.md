@@ -46,7 +46,7 @@ To assess the severity of exploits, one can refer to this table
   <tr>
     <td><img src="https://github.com/lapitstechnologies/audits/blob/main/Images/image4.png" alt="Informational"></td>
     <td>Informational</td>
-    <td>nformational vulnerabilities do not pose a risk to security. These are merely improvements over the existing code</td>
+    <td>Informational vulnerabilities do not pose a risk to security. These are merely improvements over the existing code</td>
   </tr>
  </table>
 
