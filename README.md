@@ -4,11 +4,14 @@ The following repository contains the security Audit reports conducted by our or
 
 The Audits are conducted both manually, and through open-source tools
 
+
+
 ## Software Used
 
 <ul>
   <li><a href="https://github.com/crytic/slither">Slither</a></li>
   <li><a href="https://github.com/ConsenSys/mythril">Mythril</a></li>
+  <li><a href="https://github.com/crytic/echidna">Echidna</a></li>
 </ul>
 
 ## Vulnerability Indicators
@@ -49,4 +52,5 @@ To assess the severity of exploits, one can refer to this table
 
 
 ### Note
+
 <b>Report styles are subject to change or update overtime</b>
