@@ -1,9 +1,9 @@
 # Smart Contract Security Audits 
 
-The following repository contains the security Audit reports conducted by our organizaion for our clients. The Smart Contracts have been tested over a given set of vulnerabilities and weaknesses
-
-The Audits are conducted both manually, and through open-source tools
-
+This repository contains the security audit reports conducted by Lapits for its clients. The Smart Contracts for several weaknesses, and have been manually reviewed. 
+Report styles are subject to change or update overtime
+## Note
+These audits do not gaurantee the safety of the code and Lapits is not liable for damages caused to any individual/organization.
 
 
 ## Software Used
@@ -51,6 +51,6 @@ To assess the severity of exploits, one can refer to this table
  </table>
 
 
-### Note
 
-<b>Report styles are subject to change or update overtime</b>
+
+
