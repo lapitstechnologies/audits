@@ -151,7 +151,7 @@ contract Badge is ERC1155, BaseContract {
         tokenPrice = _totalTokensPerEther;
     }
 
-    //  extra function   --------------------------------------------
+  
     function setTokenUri(uint256 tokenId, string memory IPFS)
         internal
         returns (bool)
@@ -160,11 +160,7 @@ contract Badge is ERC1155, BaseContract {
         return true;
     }
 
-    //--------------------------------------------------
-    // function getTokenUri(uint256 tokenId) public view returns (string memory) {
-    //     return mapTokenUri[tokenId];
-    // }
-
+ 
     function getTokenCounter() external view returns (uint256) {
         return tokenCounter;
     }
@@ -410,4 +406,4 @@ contract Badge is ERC1155, BaseContract {
         return mapUserBadge[owner].length();
     }
 }
-//0xd9145CCE52D386f254917e481eB44e9943F39138
+
